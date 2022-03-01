@@ -1,6 +1,8 @@
 
 For running application:
-clojure -M:run-m
+
+### clojure -M:run-m
 
 For Testing:
-clojure -M:test:runner
+
+### clojure -M:test:runner
