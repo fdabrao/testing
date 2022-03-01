@@ -11,7 +11,7 @@ To run Clojurescript application
 
 ### npm install
 
-### npx shadow-cljs server app
+### npx shadow-cljs watch app
 
 ### open browser in [http://localhost:3000](http://localhost:3000)
 
