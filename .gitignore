@@ -1,0 +1,10 @@
+/.clj-kondo
+/.lsp
+/back/.calva
+/back/.clj-kondo
+/back/.cpcache
+/back/.lsp
+/front/.clj-kondo
+/front/.lsp
+/front/.shadow-cljs
+/front/node_modules
