@@ -14,3 +14,5 @@ To run Clojurescript application
 ### npx shadow-cljs server app
 
 ### open browser in [http://localhost:3000](http://localhost:3000)
+
+You can use any non-lowercase character that it will remove it and compare for scrambling.
