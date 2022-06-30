@@ -7,3 +7,5 @@ For running application:
 For Testing:
 
 ### clojure -M:test:runner
+
+### Testing commit and tag
